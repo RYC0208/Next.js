@@ -8,7 +8,7 @@ const TestPage = () => {
 
   const handleButtonClick = () => {
     setTimeout(() => {
-      router.push("/");
+    router.push("/");
     }, 1000);
   };
   return (
